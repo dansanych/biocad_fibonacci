@@ -10,13 +10,13 @@ mvn clean install assembly:single
 
 ### Запуск Вариант №1
 ```
-java -jar biocad-json-parser.jar
+java -jar biocad-fibonacci.jar
 ```
 ###### Ввод предельного члена последовательности Фибоначчи производится с помощью scanner
 
 ### Запуск Вариант №1
 ```
-java -jar biocad-json-parser.jar par1
+java -jar biocad-fibonacci.jar par1
 ```
 ###### par1 - значение предельного члена последовательности Фибоначчи
 
