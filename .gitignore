@@ -3,6 +3,4 @@
 .class
 /out/*
 
-*.jar
-*.war
-*.ear
+/target/
